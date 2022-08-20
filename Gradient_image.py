@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Mar 27 22:53:35 2018
 
-@author: Abhishek
-"""
 import cv2
 import matplotlib.pyplot as plt
 def gradient(img):
