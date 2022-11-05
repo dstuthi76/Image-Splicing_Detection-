@@ -1,4 +1,4 @@
-# Exploring Deepfake Detection with MesoNet
+# Exploring Image Splice Detection with MesoNet
 
 "Deepfakes" refer to fake media, like pictures and videos, that are developed using deep neural networks. Unlike fake media created using Photoshop, these forgeries are _almost indistinguishable_ from the real thing.
 
